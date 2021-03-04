@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+  
+    
+}
+.container{
+    background-color: #1687a7;
+    height: 100vh;
+    
+   
+}
+.top-circle{
+    position: absolute;
+    width: 50%;
+   top: -200px;
+   left: -100px;
+   z-index: 0;
+}
+.bottom-circle{
+    position: absolute;
+    width: 50%;
+    bottom: -320px;
+    right: -90px;
+    z-index: 0;
+    
+}
+div{ position: relative;
+    height: 350px;
+    width: 350px;
+    border: none;
+    border-radius: 12px;
+    background-color: white;
+    
+    z-index: 2;
+   margin: 0 auto;
+   top: 180px;
+ 
+
+}
+
+.card-banner{
+width: 100%;
+margin: 0 auto;
+border-top: 0;
+border-top-left-radius: 12px;
+border-top-right-radius: 12px;
+
+}
+.vector{ 
+    width: 30%;
+    position: absolute;
+    border: 6px solid white;
+    border-radius: 100%;
+    top:70px ;
+    left: 120px;
+     
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    /* line-height: 2; */
+    text-align: center;
+  padding-top: 30px;
+}
+span{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: gray;
+    font-size: 12px;
+   
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0px 20px 5px;
+    font-size: 1rem;
+    font-weight: larger bolder;
+    fon
+    display: inline;
+   position: absolute;
+   text-align: center;
+}
+.flexing{
+    d
+    
+}
